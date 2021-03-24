@@ -34,7 +34,7 @@ Some links of projects already created that directs to other platforms
 
 <br><br>
 <br>
-💬 PANEL ADMIN SERVER<br>
+💬 PANEL ADMIN SERVER<br> This is a plugins license management and cash flow control project for your server, it was fully integrated with your database. It was developed with PHP & JS.<br>
 -  <img src="https://i.imgur.com/GZyoFO9.png" /> 
 
 <br><br>
